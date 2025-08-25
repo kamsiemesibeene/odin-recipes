@@ -1,0 +1,70 @@
+h1 {
+    font-family: Verdana, "Geneva", Tahoma, sans-serif;
+    font-size: 40px;
+    font-weight: 700px;
+    background-color: aquamarine;
+    border: 15px solid gold;
+    width: 500px;
+    margin: 30px auto 30px auto;
+    padding: 20px;
+    text-align: center;
+    border-radius: 20px;
+    position: sticky;
+    top: 0;
+}
+
+img {
+    display: block;
+    margin: auto;
+    border-radius: 20px;
+}
+
+.subtitle {
+    font-family: Verdana, "Geneva", Tahoma, sans-serif;
+    font-size: 25px;
+    font-weight: 300px;
+    width: 250px;
+    padding: 15px;
+    margin: 50px auto 20px auto;
+    text-align: center;
+    background-color: gold;
+    border-radius: 15px;
+}
+
+.content {
+    background-color: whitesmoke;
+    font-family: Verdana, "Geneva", Tahoma, sans-serif;
+    font-size: 15px;
+    font-weight: 100px;
+    text-align: center;
+    width: 800px;
+    list-style-position: inside;
+    margin: auto;
+    padding: 10px;
+    border: 2px solid gold;
+    border-radius: 15px;
+}
+
+button {
+    display: block;
+    margin: 16px auto 16px auto;
+    font-size: 20px;
+    font-family: Verdana, "Geneva", Tahoma, sans-serif;
+    background-color: whitesmoke;
+    border: 2px solid silver;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.dish {
+    background-color: whitesmoke;
+    font-family: Verdana, "Geneva", Tahoma, sans-serif;
+    font-size: 20px;
+    font-weight: 150px;
+    text-align: center;
+    width: 150px;
+    margin: 20px auto 20px auto;
+    padding: 10px;
+    border: 2px solid gold;
+    border-radius: 15px;
+}
